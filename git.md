@@ -1,8 +1,8 @@
-先建立好一个仓库，然后自己的本地电脑随地找个方便的地方建立一个文件夹
-通过  git clone http:\\xxxxx 会把仓库以文件夹的形式在本地建立，把需要上传的文件拖进仓库文件夹里，执行
-git add .
-git commit -m ''
-git push
+		先建立好一个仓库，然后自己的本地电脑随地找个方便的地方建立一个文件夹
+		通过  git clone http:\\xxxxx 会把仓库以文件夹的形式在本地建立，把需要上传的文件拖进仓库文件夹里，执行
+		git add .
+		git commit -m ''
+		git push
 
 ```powershell
 PS C:\Users\12390\Desktop\python> git clone https://github.com/InitialMe/python-note.git
