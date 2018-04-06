@@ -1,6 +1,9 @@
+		使用git要先安装git并添加好环境变量路径，环境变量路径可以在安装时选择自动添加或者自己手动添加
 		先建立好一个仓库，然后自己的本地电脑随地找个方便的地方建立一个文件夹
-		通过  git clone http:\\xxxxx (在clone or download那里可以复制地址)会把仓库以文件夹的形式在本地建立，把需要上传的文件拖进仓库文件夹			里，执行
-		git add .  #"."代表上传所有文件，\xxxx.xx代表上传的具体文件名
+		在文件夹的地址栏输入powershell，或者cmd
+		在终端输入git clone http:\\xxxxx (在clone or download那里可以复制地址)会把仓库以文件夹的形式在本地文件夹建立
+		把需要上传的文件拖进仓库文件夹里执行
+		git add .  //"."代表上传所有文件，.\xxxx.xx代表上传的具体文件名
 		git commit -m ''
 		git push
 		剩下的输入账号密码
