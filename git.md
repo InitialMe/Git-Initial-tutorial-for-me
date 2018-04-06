@@ -11,8 +11,8 @@
 		建议所有笔记markdown记录 下附下载地址
 		人家整理的常用markdown语法   
 [下载地址](http://markdownpad.com/download.html)<br>
-[人家的博客](https://www.jianshu.com/p/82e730892d42)<br>
-[人家的博客2](https://blog.csdn.net/kaitiren/article/details/38513715)<br>
+[创始人 John Gruber 的 Markdown 语法说明](https://daringfireball.net/projects/markdown/syntax)<br>
+[Markdown 中文版语法说明](http://wowubuntu.com/markdown/#list)<br>
 
 ```powershell
 PS C:\Users\12390\Desktop\python> git clone https://github.com/InitialMe/python-note.git
