@@ -1,8 +1,10 @@
 		先建立好一个仓库，然后自己的本地电脑随地找个方便的地方建立一个文件夹
 		通过  git clone http:\\xxxxx 会把仓库以文件夹的形式在本地建立，把需要上传的文件拖进仓库文件夹里，执行
-		git add .
+		git add .  #"."代表上传所有文件，\xxxx.xx代表上传的具体文件名
 		git commit -m ''
 		git push
+		建议所有笔记markdown记录 下载地址：http://markdownpad.com/download.html
+		人家整理的常用markdown语法        https://www.jianshu.com/p/82e730892d42
 
 ```powershell
 PS C:\Users\12390\Desktop\python> git clone https://github.com/InitialMe/python-note.git
