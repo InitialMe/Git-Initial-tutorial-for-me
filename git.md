@@ -8,9 +8,11 @@
 		git push
 		剩下的输入账号密码
 		亦可以尝试使用客户端GitKraken,比官方客户端好用系列
-		建议所有笔记markdown记录 下载地址：[下载地址](http://markdownpad.com/download.html)
-		人家整理的常用markdown语法      [别人的博客](https://www.jianshu.com/p/82e730892d42)
-					      [别人的博客2](https://blog.csdn.net/kaitiren/article/details/38513715)
+		建议所有笔记markdown记录 下附下载地址
+		人家整理的常用markdown语法   
+[下载地址](http://markdownpad.com/download.html)
+[人家的博客](https://www.jianshu.com/p/82e730892d42)
+[人家的博客2](https://blog.csdn.net/kaitiren/article/details/38513715)
 
 ```powershell
 PS C:\Users\12390\Desktop\python> git clone https://github.com/InitialMe/python-note.git
