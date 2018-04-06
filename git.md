@@ -13,7 +13,7 @@
 [下载地址](http://markdownpad.com/download.html)<br>
 [创始人 John Gruber 的 Markdown 语法说明](https://daringfireball.net/projects/markdown/syntax)<br>
 [Markdown 中文版语法说明](http://wowubuntu.com/markdown/#list)<br>
-
+[专区](https://sspai.com/post/25137)
 ```powershell
 PS C:\Users\12390\Desktop\python> git clone https://github.com/InitialMe/python-note.git
 Cloning into 'python-note'...
